@@ -1,6 +1,6 @@
 # ISA 444 — Hotel Demand Forecasting Project
 
-**Kenny Biggs & Max**
+**Kenny Biggs & Max Buksbaum**
 
 ## Overview
 This project forecasts daily room demand for 17 hotel properties over a
