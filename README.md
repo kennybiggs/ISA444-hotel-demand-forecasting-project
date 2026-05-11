@@ -142,20 +142,7 @@ Also, LightGBM performed extremely well during cross-validation but less consist
 | `final_test_evaluation.csv` | Final 28-day holdout test results |
 | `final_forecasts_all_models.csv` | Final forecasts from each model |
 
----
 
-## Reproducibility
-
-To reproduce this project, open the notebook and run the cells in order. The notebook loads the hotel dataset, prepares the data, runs time-series cross-validation, evaluates models, generates final forecasts, and saves the required CSV outputs.
-
-Required packages include:
-
-- `pandas`
-- `statsforecast`
-- `mlforecast`
-- `neuralforecast`
-- `utilsforecast`
-- `lightgbm`
 
 ---
 
